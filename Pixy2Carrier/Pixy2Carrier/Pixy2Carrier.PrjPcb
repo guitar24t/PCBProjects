@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -174,34 +175,38 @@ DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GTL
+DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GTO
+DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GTP
+DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GTS
+DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.LDP
+DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.REP
+DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.RUL
+DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Pixy2Carrier\Pixy2Carrier.TXT
 DItemRevisionGUID=
 
